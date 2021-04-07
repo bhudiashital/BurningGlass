@@ -1,1 +1,1 @@
-# Test Automation boilerplate with BDD and Selenium
+# Test Automation with BDD and Selenium
